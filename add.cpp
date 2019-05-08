@@ -12,6 +12,7 @@ int main()
 	cin>>y;
 	s=sum(x,y);
 	cout<<"The sum is : "<<s;
+        cout<<"second edit";
 
 	
 	return 0;
